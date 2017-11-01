@@ -1,2 +1,3 @@
 # hello-world
-first reopsitory
+
+this is the first git hub editing.
